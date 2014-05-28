@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               CGI-Alternatives
-version:            0.01
+version:            0.02
 abstract:           Documentation for alternative solutions to CGI.pm
 author:
     - Lee Johnson <leejo@cpan.org>
