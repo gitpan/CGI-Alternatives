@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               CGI-Alternatives
-version:            0.02
+version:            0.03
 abstract:           Documentation for alternative solutions to CGI.pm
 author:
     - Lee Johnson <leejo@cpan.org>
@@ -14,7 +14,7 @@ build_requires:
     Test::Pod::Coverage:  1.08
 requires:  {}
 resources:
-    bugtracker:  https://github.com/leejo/cgi-alterntatives/issues
+    bugtracker:  https://github.com/leejo/cgi-alternatives/issues
     homepage:    https://metacpan.org/module/CGI::Alternatives
     license:     http://dev.perl.org/licenses/
     repository:  https://github.com/leejo/cgi-alternatives
