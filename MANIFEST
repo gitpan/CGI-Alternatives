@@ -2,6 +2,7 @@ Changes
 lib/CGI/Alternatives.pm
 Makefile.PL
 MANIFEST
-README
+README.md
 t/001_compiles_pod.t
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
