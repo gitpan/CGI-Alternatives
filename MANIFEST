@@ -17,5 +17,4 @@ examples/mojolicious_lite.pl
 examples/mojolicious_lite_plugin_cgi.pl
 examples/plack_psgi.pl
 examples/templates/example_form.html.tt
-META.yml                                 Module YAML meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
+META.yml                                 Module meta-data (added by MakeMaker)
